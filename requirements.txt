@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+optuna
+reportlab
+
+# Optional (koristi se u src/train_search.py ako želiš)
+lightgbm
+catboost
